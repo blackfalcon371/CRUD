@@ -1,0 +1,18 @@
+#web{
+	width:1000px;
+	height:200px;
+	margin-top:0;
+	margin-left:auto;
+	margin-bottom:1000px;
+	margin-right:auto;
+	background-color:#FF4500;
+}
+#cabecaho{
+	width:1000px;
+	height:500px;
+}
+#conteudo{
+	width:1000px;
+	height:650px;
+	background-color:#FFD700;
+}
